@@ -1,0 +1,3 @@
+// .... Python callable Vector functions ..................
+static PyObject *MyCFunc(PyObject *self, PyObject *args);
+
